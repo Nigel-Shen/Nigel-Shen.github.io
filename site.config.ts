@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Nigel Shen',
 
   // open graph metadata (optional)
-  description: 'Nigel Shen's Homepage',
+  description: 'Nigel Shen Homepage',
 
   // social usernames (optional)
   twitter: '',
